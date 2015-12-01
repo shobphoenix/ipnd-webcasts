@@ -269,8 +269,8 @@ Get a massive list of 3 numbers that add up to 1000
 The list would be a list of lists and would look something like this
 
                   a   b    c
-    my_numbers = [[1, 2, 998],
-                 [1, 3, 997],
+    my_numbers = [[1, 2, 997],
+                 [1, 3, 996],
                  etc...
 
  For each a and b and c that satisfies a + b + c = 1000 and
